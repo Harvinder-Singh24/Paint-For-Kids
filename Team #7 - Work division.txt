@@ -1,0 +1,4 @@
+Mohamed Hassan Mohamed 1190118: Add figure, select figure, save , load, Exit.
+Omar Hosny Anwar Abd Elhamed 1190448: change current colors, resize figure, zoom in/out figure.
+Ramy Ashraf Abdelmaseeh Soliman Mina 1190178: delete, move, copy, cut, paste, bonus.
+Mohamed Adel Mohamed Maaroof 1190407: switch to play, pick&hide, switch to draw.
