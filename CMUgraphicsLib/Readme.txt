@@ -13,11 +13,7 @@ Some constants have been renamed (from version 1.1):
 	LEFT    -> LEFT_BUTTON
 	RIGHT   -> RIGHT_BUTTON
 
-Also, the default destructor behavior of the window object has 
-changed.  If a window is the last window object on screen, it 
-will now not disappear until the mouse has been clicked in the 
-window.  This behavior can be changed using the SetWaitClose 
-function described in "Manual.txt".
+The window object's default destruction behaviour has also altered. The last window object on the screen won't now vanish unless the mouse is clicked inside the window if it is a window. Using the SetWaitClose function, which is documented in "Manual.txt," this behaviour can be modified.
 
 With this release, the source for each compiler is the same; 
 compiler differences are resolved in the file version.h.
